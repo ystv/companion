@@ -1,6 +1,6 @@
 {
 	"name": "companion",
-	"version": "2.4.1",
+	"version": "2.4.1-ystv0",
 	"description": "Companion",
 	"main": "electron.js",
 	"build": {
@@ -325,7 +325,7 @@
 		"companion-module-generic-tcp-udp": "github:bitfocus/companion-module-generic-tcp-udp#v1.0.11",
 		"companion-module-generic-wakeonlan": "github:bitfocus/companion-module-generic-wakeonlan#v1.0.5",
 		"companion-module-generic-websocket": "github:bitfocus/companion-module-generic-websocket#v1.0.3",
-		"companion-module-getontime-ontime": "github:bitfocus/companion-module-getontime-ontime#v1.1.0",
+		"companion-module-getontime-ontime": "github:ystv/companion-module-getontime-ontime.git#action-select-event",
 		"companion-module-globalcache-itac-cc": "github:bitfocus/companion-module-globalcache-itac-cc#v1.0.3",
 		"companion-module-globalcache-itac-ir": "github:bitfocus/companion-module-globalcache-itac-ir#v1.0.7",
 		"companion-module-globalcache-itac-sl": "github:bitfocus/companion-module-globalcache-itac-sl#v1.0.6",
